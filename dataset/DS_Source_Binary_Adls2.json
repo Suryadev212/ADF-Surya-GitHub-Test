@@ -1,5 +1,5 @@
 {
-	"name": "DS_Source_Binary_Adls_copy1",
+	"name": "DS_Source_Binary_Adls2",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "LS_ADLS_ADB_UnityCatalog",
