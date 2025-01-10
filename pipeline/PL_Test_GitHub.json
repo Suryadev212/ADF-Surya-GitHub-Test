@@ -1,6 +1,17 @@
 {
 	"name": "PL_Test_GitHub",
 	"properties": {
+		"activities": [
+			{
+				"name": "For GitHub Testing",
+				"type": "Wait",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"waitTimeInSeconds": 10
+				}
+			}
+		],
 		"annotations": []
 	}
 }
