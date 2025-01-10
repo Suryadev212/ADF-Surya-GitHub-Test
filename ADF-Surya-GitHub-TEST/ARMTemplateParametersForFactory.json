@@ -4,6 +4,12 @@
 	"parameters": {
 		"factoryName": {
 			"value": "ADF-Surya-GitHub-TEST"
+		},
+		"LS_ADLS_ADB_UnityCatalog_accountKey": {
+			"value": ""
+		},
+		"LS_ADLS_ADB_UnityCatalog_properties_typeProperties_url": {
+			"value": "https://storage4adb4unitycatalog.dfs.core.windows.net/"
 		}
 	}
 }
