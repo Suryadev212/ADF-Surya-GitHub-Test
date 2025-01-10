@@ -1,0 +1,9 @@
+{
+	"name": "ADF-Surya-GitHub-TEST",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9edaac94-e409-4de7-a956-35dfca9b9e36",
+		"tenantId": "6c61ba97-8525-4e2c-a0c4-f1a595216eb6"
+	}
+}
