@@ -1,0 +1,16 @@
+{
+	"name": "DS_Source_Binary_Adls2",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "LS_ADLS_ADB_UnityCatalog",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Binary",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation"
+			}
+		}
+	}
+}
